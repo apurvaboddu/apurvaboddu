@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @apurvaboddu
+- 👋 Hi, I’m @apurva
 - 👀 I’m interested in data analysis and python
 - 🌱 I’m currently learning git
 - 💞️ I’m looking to collaborate on python projects
